@@ -2,7 +2,7 @@
 
 Half of Elysia. Named after *Elysia Chlorotica* the [majestic slug](https://en.wikipedia.org/wiki/Elysia_chlorotica).
 
-To use: install [haskell Stack](https://docs.haskellstack.org/en/stable/README/). Then,
+To use: install [Haskell Stack](https://docs.haskellstack.org/en/stable/README/). Then,
 
 ```
 cd ely
